@@ -3,3 +3,4 @@
 2. [Understand the Activity Lifecycle](https://github.com/luischang/ActivityLifeCycle)
 3. [Interaction Between Activities](https://github.com/luischang/InteractionBetweenActivities)
 4. [ListView](https://github.com/luischang/ListView)
+5. [Runtime Permissions](https://github.com/luischang/RuntimePermission)
